@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @itsmefrade
+- 👋 Hi, I’m Talha.
 - I’m interested in coding.
 - I’m currently learning javascript and python
-- You can reach me from Discord: Frade#4700 | Twitter: itsmefrade
-- Maybe i can make projects later.
+- You can reach me from Discord: Frade#4700 
+- Maybe i make projects later.
