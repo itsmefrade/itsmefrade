@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Talha.
-- I’m interested in coding.
-- I’m currently learning javascript and python
-- You can reach me from Discord: Frade#4700 
-- Maybe i make projects later.
+Frade#4700
+I choose good repos and starring them. You can take a look if u want tho.
